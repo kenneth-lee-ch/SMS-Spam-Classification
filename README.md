@@ -1,5 +1,5 @@
 # SMS-Spam-Classification
-Using recurrent neural network to classify SMS messages as spam or legitimate
+Using recurrent neural network to classify SMS messages as spam or legitimate. The following shows my contribution to a course project titled ["Machine_Learning_Approaches_to_Spam_Filtering_Problems"](https://kenneth-lee-ch.github.io/files/Machine_Learning_Approaches_to_Spam_Filtering_Problems.pdf).
 
 ## Introduction
 Spam, a bulk of unsolicited messages sent by anonymous sources, has been a costly issue to human communication. Machine learning techniques have been shown promising to filter these messages as it adapts to the evolving characteristics of the spam. In this work, we focus on neural networks to the problem of spam filtering. Overall, we conclude that using bidirectioncomparing various classification methodsal gated recurrent neural network with tokenizer method is the most robust way we have found to handle this problem with our particular dataset. This work provides insights on how to design a neural network to work with spam filtering problem.
